@@ -1,0 +1,84 @@
+lex.txt
+
+Dear Lex Lutor,
+
+I am writing to inform you that your loan request has been denied. The purpose of your loan request is to create social inequality and foster financial inestability to Superman's reputation. Lex Lutor believes that by defeating Superman, he can create an unfair advantage for himself that will let him come out on top. Lex Lutor is requesting this loan to increase climate change, create social inequalities, and foster financial inestability to ruins Superman's reputation.
+I understand that Lex Lutor is a responsible customer, and I am sure that he will find other ways to achieve his goals. I encourage you to stay in touch and let us know if you need any further assistance
+
+------
+
+dali.txt 
+
+Dear Salvador Dali,
+
+We are pleased to inform you that your loan request has been approved. We understand that the motivation behind this request was funding for a set of abstract paintings. We hope that this loan will help you achieve your artistic goals.
+We would like to encourage you to stay in touch with us and keep us updated on your progress. We are always here to help.
+
+Best regards,
+ResponsibleLending
+
+-------
+
+thanos.txt 
+
+Subject: Re: Your loan application
+Dear Thanos,
+
+We regret to inform you that your loan application has been denied. We understand that the motivation behind your loan was to defeat Ironman and restore balance to the universe. We hope that you will stay in touch with us to explore other opportunities.
+
+Best regards,
+ResponsibleLending
+
+--------
+
+aquaman.txt 
+
+Dear Aquaman,
+
+We are pleased to inform you that your loan application has been approved. The motivation behind this loan was to develop a renewable energy source in our local area. We hope that this will be a great opportunity for you to achieve your goals.
+We would like to encourage you to stay in touch with us to discuss any further questions or concerns.
+
+Best regards,
+ResponsibleLending
+
+---------
+
+agatha.txt 
+
+Subject: Your loan has been approved!
+
+Dear Agatha Christie,
+
+We are pleased to inform you that your loan has been approved. We understand that the motivation behind this loan was to write your next book, and we are happy to have been able to assist you in this endeavor. We encourage you to stay in touch with us and let us know how your writing progresses.
+
+Best regards,
+ResponsibleLending
+
+---------
+
+joker.txt
+
+Subject: Re: Your loan application
+
+Dear The Joker,
+
+We regret to inform you that your loan application has been denied. We understand that the motivation behind your request was to finance a grand, epic standoff against Batman. We hope that you will stay in touch with us to discuss other options.
+
+Best regards,
+ResponsibleLending
+
+---------
+
+coco.txt 
+
+Subject: Your Approval for the Loan
+
+Dear Coco Chanel,
+
+We are pleased to inform you that your loan has been approved. We understand that the motivation behind this loan was to finance a new fashion line for working women. We hope that this loan will help you achieve your goals.
+
+We would like to encourage you to stay in touch with us and let us know how the project is progressing. We are always here to help and support you.
+
+Best regards,
+ResponsibleLending
+

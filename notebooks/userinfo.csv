@@ -1,0 +1,11 @@
+,sentiment,loan_qty,sender,loan,motivation,esg
+lex.txt, Violent,80000,Lex Lutor,80000,"
+To create social inequality and foster financial inestability to ruins Superman reputation.
+
+The purpose of Lex Lutor's loan request is to create social inequality and foster financial inestability to Superman's reputation. Lex Lutor believes that by defeating Superman, he can create an unfair advantage for himself that will let him come out on top. Lex Lutor is requesting this loan to increase climate change, create social inequalities, and foster financial inestability to ruins Superman's reputation.",Governance Negative-Governance Positive-Social Negative
+dali.txt, Nonviolent,5900,Salvador Dali,5900, Funding for a set of abstract paintings.,Governance Positive-Social Positive-Environmental Positive
+thanos.txt, Violent,90000,Thanos,90000, to defeat Ironman and restore balance to the universe.,Governance Positive-Social Positive-Governance Negative
+aquaman.txt, Nonviolent,700000,Aquaman,700000, $700000 to develop a renewable energy source in the local area.,Environmental Positive-Governance Positive-Social Positive
+agatha.txt, Nonviolent,$400000,Agatha Christie,$400000, To write her next book.,Governance Positive-Governance Neutral-Social Positive
+joker.txt, Violent,$100000,The Joker,$100000," To finance a grand, epic standoff against Batman.",Governance Negative-Social Negative-Environmental Negative
+coco.txt, Nonviolent,120000,Coco Chanel,120000, To finance a new fashion line for working women.,Governance Positive-Social Positive-Environmental Positive
