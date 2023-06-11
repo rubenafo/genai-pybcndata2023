@@ -13,7 +13,7 @@ The system will also generate an automated email response for the sender extract
 2. requested loan quantity
 3. loan motivation
 
-Seven candidate emails were provided:
+Seven loan request from different candidates are provided:
 1. Lex Luthor
 2. Thanos
 3. The Joker
