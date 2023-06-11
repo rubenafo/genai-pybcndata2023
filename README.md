@@ -24,7 +24,8 @@ Seven candidate emails were provided:
 
 ## Content
 
-This repo contains a notebook with steps to:
+This repo contains a notebook with code to:
 1. Interact with models from [HugginFace Inference API](https://huggingface.co/inference-api)
-2. Use prompts for [Falcon-7b-instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) and [flan-t5-xxl models](https://huggingface.co/google/flan-t5-xxl) models
-3. Custom prompts to generate emails and their automated responses.
+2. Interact with a custom, fine-tuned ESG model from HuggingFace, [ESG-BERT](https://huggingface.co/nbroad/ESG-BERT)
+3. Use prompts for [Falcon-7b-instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) and [flan-t5-xxl models](https://huggingface.co/google/flan-t5-xxl) models
+4. Custom prompts to generate emails and their automated responses.
