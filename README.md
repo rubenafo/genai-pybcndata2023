@@ -1,5 +1,5 @@
 # genai-pybcndata2023
-Generative AI workshop delivered at PyDataBCN 2023
+Generative AI workshop delivered at [PyDataBCN 2023](https://pybcn.org/events/pydatabcn/pydatabcn_2023/)
 
 ## Role play
 
